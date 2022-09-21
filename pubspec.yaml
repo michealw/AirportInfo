@@ -2,13 +2,13 @@ name: airportinfo
 description: >-
   Library for retrieving data from the 'Airport Info' API by Active API
   available via the RapidAPI service.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/michealw/AirportInfo
 repository: https://github.com/michealw/AirportInfo
 issue_tracker: https://github.com/michealw/AirportInfo/issues
 
 environment:
-  sdk: '>=2.18.1 <3.0.0'
+  sdk: '>=2.18.0 <3.0.0'
 
 dev_dependencies:
   lints: ^2.0.0
