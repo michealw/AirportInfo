@@ -41,6 +41,6 @@ jobs:
       - name: Run tests
         run: dart test
         env:
-          RP_HOST: ${{ secrets.RP_HOST }}
-          RP_KEY: ${{ secrets.RP_KEY }}
+          RP_HOST: ${{ secrets.API_HOST }}
+          RP_KEY: ${{ secrets.API_KEY }}
           EXEC_ENV: 'github_actions'
