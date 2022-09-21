@@ -12,6 +12,8 @@ and the Flutter guide for
 -->
 # AirportInfo
 
+![Logo](https://raw.githubusercontent.com/michealw/AirportInfo/4e97d3bb3664486f6e5e67df0e93dc43c31c04d3/doc/logo.png)
+
 [![Dart](https://github.com/michealw/AirportInfo/actions/workflows/dart.yml/badge.svg)](https://github.com/michealw/AirportInfo/actions/workflows/dart.yml)
 
 Library for retrieving data from the [Airport Info API](https://rapidapi.com/Active-api/api/airport-info/) by Active API available via the [RapidAPI](https://rapidapi.com) service.
